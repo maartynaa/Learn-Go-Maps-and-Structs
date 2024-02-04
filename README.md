@@ -1,0 +1,1 @@
+Exercises based on https://www.codecademy.com/courses/learn-go-maps-and-structs
